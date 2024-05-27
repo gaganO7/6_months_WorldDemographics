@@ -1,5 +1,5 @@
 # World Demographics
- It is the project on the bases of evaluation of world numerics using the deeep learning
+ It is the project on the bases of evaluation of world numerics using the data science analysis techniques.
 
 ## Description
 The World Demographics project is dedicated to analyzing data from various countries around the world on numerous factors. This includes demographic, economic, and social indicators. The project also provides a detailed analysis of India's state-wise demographics and includes custom functionalities to visualize the data based on user preferences.
